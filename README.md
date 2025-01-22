@@ -45,20 +45,3 @@ The application emphasizes a seamless user experience through intuitive navigati
 
 Overall, this React Native real estate app aims to streamline the property search process while providing an engaging platform for users to connect with real estate opportunities effectively.
 
-Citations:
-[1] https://appicsoftwares.com/blog/react-native-real-estate-app-development-guide/
-[2] https://www.purrweb.com/blog/real-estate-mobile-app-development-how-to-make-an-app-that-users-love/
-[3] https://startup.nativebase.io/build-your-own/real-estate-app
-[4] https://github.com/MihaiGitHub/Real-Estate-Mobile
-[5] https://www.appandup.app/case-studies/react-native-real-estate-app-luffarelli
-[6] https://codecanyon.net/search/real%20estate%20react%20native
-[7] https://instamobile.io/app-templates/real-estate-app-template-react-native/
-[8] https://www.youtube.com/watch?v=CzJQEstIiEI
-
-
-Technologies Used:
-
-React Native: The primary framework for building the mobile application, allowing for cross-platform development.
-Google Authentication: Implemented for user sign-in, enhancing security and user experience.
-Appwrite: A backend server that provides database services, authentication, and real-time capabilities.
-Nativewind: A utility-first CSS framework for styling the application, making it easier to design responsive interfaces.
